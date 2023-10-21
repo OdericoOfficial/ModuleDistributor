@@ -1,0 +1,12 @@
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.EventBus.Abstractions\bin\Debug\net7.0\ModuleDistributor.EventBus.Abstractions.deps.json
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.EventBus.Abstractions\bin\Debug\net7.0\ModuleDistributor.EventBus.Abstractions.dll
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.EventBus.Abstractions\bin\Debug\net7.0\ModuleDistributor.EventBus.Abstractions.pdb
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.EventBus.Abstractions\obj\Debug\net7.0\ModuleDistributor.EventBus.Abstractions.csproj.AssemblyReference.cache
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.EventBus.Abstractions\obj\Debug\net7.0\ModuleDistributor.EventBus.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.EventBus.Abstractions\obj\Debug\net7.0\ModuleDistributor.EventBus.Abstractions.AssemblyInfoInputs.cache
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.EventBus.Abstractions\obj\Debug\net7.0\ModuleDistributor.EventBus.Abstractions.AssemblyInfo.cs
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.EventBus.Abstractions\obj\Debug\net7.0\ModuleDistributor.EventBus.Abstractions.csproj.CoreCompileInputs.cache
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.EventBus.Abstractions\obj\Debug\net7.0\ModuleDistributor.EventBus.Abstractions.dll
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.EventBus.Abstractions\obj\Debug\net7.0\refint\ModuleDistributor.EventBus.Abstractions.dll
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.EventBus.Abstractions\obj\Debug\net7.0\ModuleDistributor.EventBus.Abstractions.pdb
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.EventBus.Abstractions\obj\Debug\net7.0\ref\ModuleDistributor.EventBus.Abstractions.dll

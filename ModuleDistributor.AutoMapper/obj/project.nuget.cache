@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xxO6t+FmqAv/HSfsJNYR5DqlYDHy2aJRa0HnOlPL3ZoFAnpMwaiD1Wx9XiYFFdTmUdX/JwlfF4G5NUwZQMUibQ==",
+  "success": true,
+  "projectFilePath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor.AutoMapper\\ModuleDistributor.AutoMapper.csproj",
+  "expectedPackageFiles": [
+    "D:\\NuGet\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "D:\\NuGet\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "D:\\NuGet\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "D:\\NuGet\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "D:\\NuGet\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "D:\\NuGet\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "D:\\NuGet\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

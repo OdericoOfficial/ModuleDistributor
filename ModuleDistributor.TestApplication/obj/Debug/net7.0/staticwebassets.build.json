@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GvyYjiWlsTf/9ZQM9bIkRpx2h1GMd8KUV3M7wiEoiBY=",
+  "Source": "ModuleDistributor.TestApplication",
+  "BasePath": "_content/ModuleDistributor.TestApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

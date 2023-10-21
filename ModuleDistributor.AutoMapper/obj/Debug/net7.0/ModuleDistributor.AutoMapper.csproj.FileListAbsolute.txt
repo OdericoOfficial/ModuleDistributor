@@ -1,0 +1,15 @@
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.AutoMapper\obj\Debug\net7.0\ModuleDistributor.AutoMapper.csproj.AssemblyReference.cache
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.AutoMapper\obj\Debug\net7.0\ModuleDistributor.AutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.AutoMapper\obj\Debug\net7.0\ModuleDistributor.AutoMapper.AssemblyInfoInputs.cache
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.AutoMapper\obj\Debug\net7.0\ModuleDistributor.AutoMapper.AssemblyInfo.cs
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.AutoMapper\obj\Debug\net7.0\ModuleDistributor.AutoMapper.csproj.CoreCompileInputs.cache
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.AutoMapper\bin\Debug\net7.0\ModuleDistributor.AutoMapper.deps.json
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.AutoMapper\bin\Debug\net7.0\ModuleDistributor.AutoMapper.dll
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.AutoMapper\bin\Debug\net7.0\ModuleDistributor.AutoMapper.pdb
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.AutoMapper\bin\Debug\net7.0\ModuleDistributor.dll
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.AutoMapper\bin\Debug\net7.0\ModuleDistributor.pdb
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.AutoMapper\obj\Debug\net7.0\ModuleDistributor.AutoMapper.csproj.CopyComplete
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.AutoMapper\obj\Debug\net7.0\ModuleDistributor.AutoMapper.dll
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.AutoMapper\obj\Debug\net7.0\refint\ModuleDistributor.AutoMapper.dll
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.AutoMapper\obj\Debug\net7.0\ModuleDistributor.AutoMapper.pdb
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.AutoMapper\obj\Debug\net7.0\ref\ModuleDistributor.AutoMapper.dll

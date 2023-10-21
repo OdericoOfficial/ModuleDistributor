@@ -1,0 +1,5 @@
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.Dapr.Actors\obj\Debug\net7.0\ModuleDistributor.Dapr.Actors.csproj.AssemblyReference.cache
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.Dapr.Actors\obj\Debug\net7.0\ModuleDistributor.Dapr.Actors.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.Dapr.Actors\obj\Debug\net7.0\ModuleDistributor.Dapr.Actors.AssemblyInfoInputs.cache
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.Dapr.Actors\obj\Debug\net7.0\ModuleDistributor.Dapr.Actors.AssemblyInfo.cs
+D:\aspdotnet\Lib\ModuleDistributor\ModuleDistributor.Dapr.Actors\obj\Debug\net7.0\ModuleDistributor.Dapr.Actors.csproj.CoreCompileInputs.cache
