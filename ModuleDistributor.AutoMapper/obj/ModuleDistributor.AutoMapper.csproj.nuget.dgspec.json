@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor.AutoMapper\\ModuleDistributor.AutoMapper.csproj": {}
+    "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor.AutoMapper\\ModuleDistributor.AutoMapper.csproj": {}
   },
   "projects": {
-    "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor.AutoMapper\\ModuleDistributor.AutoMapper.csproj": {
+    "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor.AutoMapper\\ModuleDistributor.AutoMapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor.AutoMapper\\ModuleDistributor.AutoMapper.csproj",
+        "projectUniqueName": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor.AutoMapper\\ModuleDistributor.AutoMapper.csproj",
         "projectName": "ModuleDistributor.AutoMapper",
-        "projectPath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor.AutoMapper\\ModuleDistributor.AutoMapper.csproj",
+        "projectPath": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor.AutoMapper\\ModuleDistributor.AutoMapper.csproj",
         "packagesPath": "D:\\NuGet\\packages",
-        "outputPath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor.AutoMapper\\obj\\",
+        "outputPath": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor.AutoMapper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor\\ModuleDistributor.csproj": {
-                "projectPath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor\\ModuleDistributor.csproj"
+              "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor\\ModuleDistributor.csproj": {
+                "projectPath": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor\\ModuleDistributor.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor\\ModuleDistributor.csproj": {
+    "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor\\ModuleDistributor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor\\ModuleDistributor.csproj",
+        "projectUniqueName": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor\\ModuleDistributor.csproj",
         "projectName": "ModuleDistributor",
-        "projectPath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor\\ModuleDistributor.csproj",
+        "projectPath": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor\\ModuleDistributor.csproj",
         "packagesPath": "D:\\NuGet\\packages",
-        "outputPath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor\\obj\\",
+        "outputPath": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

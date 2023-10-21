@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LVCSraq3S9EsGKIMJIsHh7zxgENqE4U7JPCw9GnK58h/EvskHuxTTWO3RHrGvKchysDwgfw9jrZpOsZGUL/RRg==",
+  "dgSpecHash": "B2FtYKjZDghZubnw0UvVmWxsSojHLjONxmvDN7DXSVKYtFw/p5bxdoNif3jvMUSwhsaJvDwxMAV2zMdljhqkAA==",
   "success": true,
-  "projectFilePath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor.EventBus.Dapr\\ModuleDistributor.EventBus.Dapr.csproj",
+  "projectFilePath": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor.EventBus.Dapr\\ModuleDistributor.EventBus.Dapr.csproj",
   "expectedPackageFiles": [
     "D:\\NuGet\\packages\\dapr.aspnetcore\\1.11.0\\dapr.aspnetcore.1.11.0.nupkg.sha512",
     "D:\\NuGet\\packages\\dapr.client\\1.11.0\\dapr.client.1.11.0.nupkg.sha512",

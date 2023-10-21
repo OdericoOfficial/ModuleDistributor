@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+61Q2Wum9cF50+XgyhvOYf8OeAKpSxhhOlPmlKZhTGZjJSlo/eE5uStiuUCr4fBoOKlHy00k3TtMoMLe4xy6Og==",
+  "dgSpecHash": "bu7vHdFRyFDW4H9O711Tfpp6XFFYbgrZ7w9A8e5Z4DFPMJYTwDhKve0Ztd7Plk9fSHbZvjmmHBKK3W/7CyVTJw==",
   "success": true,
-  "projectFilePath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor.Logging\\ModuleDistributor.Logging.csproj",
+  "projectFilePath": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor.Logging\\ModuleDistributor.Logging.csproj",
   "expectedPackageFiles": [
     "D:\\NuGet\\packages\\fody\\6.2.5\\fody.6.2.5.nupkg.sha512",
     "D:\\NuGet\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",

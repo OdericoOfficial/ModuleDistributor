@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TXVDzXN+SZzqjekbR+UKt8ZTR9FWSOqw9+v2qE2xojQHqJLe342TTyuiTIsUI0fr+m5YohCJTg9UaunupYkZCQ==",
+  "dgSpecHash": "UNf+6DSb5NXadBhap4fKiYUu2OIYZXF1w1LfuZyPcT/NhaYEbXxss4RXt/HzwOhVdSQrVafuvk9RCKW7T72Daw==",
   "success": true,
-  "projectFilePath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor.SignalR\\ModuleDistributor.SignalR.csproj",
+  "projectFilePath": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor.SignalR\\ModuleDistributor.SignalR.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

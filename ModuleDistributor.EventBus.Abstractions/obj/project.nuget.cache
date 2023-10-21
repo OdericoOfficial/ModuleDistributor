@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HyZt+4coeIuk4khHb9ADbLszVjOJiz+zi3gxGc82WRvCinv+6BUUvEOpAf8i/1Kwl8POaVGVSHtOT97q/OZ/9Q==",
+  "dgSpecHash": "ctFz+20DZyTMYrGCByl06XHbWKsc2MX45rA0Xxnsk7Hg20NwsHWj/fb7jq4PsIQyqZZvZUFGsGR3Fk8MCMgkAg==",
   "success": true,
-  "projectFilePath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor.EventBus.Abstractions\\ModuleDistributor.EventBus.Abstractions.csproj",
+  "projectFilePath": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor.EventBus.Abstractions\\ModuleDistributor.EventBus.Abstractions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

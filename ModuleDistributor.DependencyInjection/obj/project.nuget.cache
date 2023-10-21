@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1BpuNEgL63fjAO2JDejQxIbwB6njNesnpd1KFAlk5EpxNLkYDQp6nycCKhH2bVjFDhm3Zot1joAGwFVMl5vS9Q==",
+  "dgSpecHash": "6neLMxLaXCrvfr7g3FiGstr7J6jPoGvrS4sIE77+g1p5sM1oDQkDLX6hRX1RNd5IOb5+N/DcVkYR7q1rtqvahw==",
   "success": true,
-  "projectFilePath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor.DependencyInjection\\ModuleDistributor.DependencyInjection.csproj",
+  "projectFilePath": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor.DependencyInjection\\ModuleDistributor.DependencyInjection.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "322iLBphVt1DgQqui0DkV1XniKEmyEEhVRtg71Px3yeU5UW8HLRcy9pUCkQEbcwHKb064KGRfX8WPQRdbtbOzg==",
+  "dgSpecHash": "5FSQDt0so00kyztas9PPTd0ivXeC7fhQuzuBWi2jatfQmiBO+DbShMv/72BoV5FZhQwrt3oQcDuy3rw16fkX/A==",
   "success": true,
-  "projectFilePath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor.TestApplication\\ModuleDistributor.TestApplication.csproj",
+  "projectFilePath": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor.TestApplication\\ModuleDistributor.TestApplication.csproj",
   "expectedPackageFiles": [
     "D:\\NuGet\\packages\\fody\\6.2.5\\fody.6.2.5.nupkg.sha512",
     "D:\\NuGet\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",

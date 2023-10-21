@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xxO6t+FmqAv/HSfsJNYR5DqlYDHy2aJRa0HnOlPL3ZoFAnpMwaiD1Wx9XiYFFdTmUdX/JwlfF4G5NUwZQMUibQ==",
+  "dgSpecHash": "2I9W5iI67qWemokRBbvwru7fYKuus4w5Y4aEbce2V4D8udIMSvubWe4icJftS4CXgI9sMSsETygCN5ikvf4bAw==",
   "success": true,
-  "projectFilePath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor.AutoMapper\\ModuleDistributor.AutoMapper.csproj",
+  "projectFilePath": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor.AutoMapper\\ModuleDistributor.AutoMapper.csproj",
   "expectedPackageFiles": [
     "D:\\NuGet\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "D:\\NuGet\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

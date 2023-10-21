@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sKxgSVgNOKMw0wOLzJgOMt3xonksIHq6ILtQvPcsp1M+UsoHzkm4XTZaIIJ1XVIb29muxswcvzWcq+gBSKyVSA==",
+  "dgSpecHash": "opA3Wd8iEe4XmDg/F+L2u9Bw/2347Y+jTO37I/mRswQ7hOdLPmBvvew6Z/CBm6l60yyxWFHXA4IbgC6T3Qs5bA==",
   "success": true,
-  "projectFilePath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor\\ModuleDistributor.csproj",
+  "projectFilePath": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor\\ModuleDistributor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

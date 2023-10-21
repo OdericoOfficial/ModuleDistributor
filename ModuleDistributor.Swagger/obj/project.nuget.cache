@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w/elDEmYeT0pWUAcTDmQ9l7nLltLi9cMT8kpS8pQJrhrjhJAzfOhTvQRihkY0/eXeowfXy/zsbgQt+mw43LIGg==",
+  "dgSpecHash": "tPaTfL+kYSHh6wtzZbn5HCrNLsKei1GWG1WDYbf5DJ+o+/cUCnML+gxU5/U8oOClD6bxJzOjN+hMKt9wi8lXzg==",
   "success": true,
-  "projectFilePath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor.Swagger\\ModuleDistributor.Swagger.csproj",
+  "projectFilePath": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor.Swagger\\ModuleDistributor.Swagger.csproj",
   "expectedPackageFiles": [
     "D:\\NuGet\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "D:\\NuGet\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

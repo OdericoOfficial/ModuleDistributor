@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G9czk5lr9Ivxu1PMU8/lpUbTu0UcmG/U4ocwJtzvo2Y/aPR6cuBIt6jB0O9+fFIYSIEi812Q3bC+hzQHTlQFig==",
+  "dgSpecHash": "ibOZX9pCGOuLFehzkGKTKpBjOM/bhfrNHQTyvcVN5W7CMHWgrVF4GnVopSC5r+oFYiVZXoJLChY8tI0kVepf3w==",
   "success": true,
-  "projectFilePath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor.HealthCheck\\ModuleDistributor.HealthCheck.csproj",
+  "projectFilePath": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor.HealthCheck\\ModuleDistributor.HealthCheck.csproj",
   "expectedPackageFiles": [
     "D:\\NuGet\\packages\\aspnetcore.healthchecks.ui.client\\7.1.0\\aspnetcore.healthchecks.ui.client.7.1.0.nupkg.sha512",
     "D:\\NuGet\\packages\\aspnetcore.healthchecks.ui.core\\7.0.0\\aspnetcore.healthchecks.ui.core.7.0.0.nupkg.sha512",

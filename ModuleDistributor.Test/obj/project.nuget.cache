@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Q7JfOwcbucaooB7hGHtZcSrRgBtzzBwIMuj8qkUMGqSdcSpxjvr5Gc3CpHJ6fW+7DdkQyDm3yio2JaBxd98WQ==",
+  "dgSpecHash": "F0quNpCXpuQfMphTyxyHJyzdG3NycxAgyhRF197dK87U4HE78HQ9DnLHyUMD3OVpRYG56eGU6zrpw16sQiK6/g==",
   "success": true,
-  "projectFilePath": "D:\\aspdotnet\\Lib\\ModuleDistributor\\ModuleDistributor.Test\\ModuleDistributor.Test.csproj",
+  "projectFilePath": "D:\\aspdotnet\\ModuleDistributor\\ModuleDistributor.Test\\ModuleDistributor.Test.csproj",
   "expectedPackageFiles": [
     "D:\\NuGet\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "D:\\NuGet\\packages\\fody\\6.2.5\\fody.6.2.5.nupkg.sha512",
